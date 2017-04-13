@@ -1,5 +1,5 @@
 ---
 applications:
-- name: GetStartedDotnet
+- name: uat-app
   random-route: true
   memory: 256M

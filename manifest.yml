@@ -3,3 +3,4 @@ applications:
 - name: uat-app
   random-route: true
   memory: 256M
+  buildpacks: dotnet-core
